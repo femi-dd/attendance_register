@@ -1,0 +1,16 @@
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\bin\Release\Attendance-Register.exe.config
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\bin\Release\Attendance-Register.exe
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\bin\Release\Attendance-Register.pdb
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\bin\Release\MySql.Data.dll
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\bin\Release\SQLite.NET.dll
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\bin\Release\MySql.Data.xml
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\obj\Release\Attendance-Register.csprojResolveAssemblyReference.cache
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\obj\Release\Attendance_Register.Admin.resources
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\obj\Release\Attendance_Register.AdminReg.resources
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\obj\Release\Attendance_Register.Login.resources
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\obj\Release\Attendance_Register.MainMenu.resources
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\obj\Release\Attendance_Register.Properties.Resources.resources
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\obj\Release\Attendance_Register.ViewAttendance.resources
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\obj\Release\Attendance-Register.csproj.GenerateResource.Cache
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\obj\Release\Attendance-Register.exe
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\obj\Release\Attendance-Register.pdb

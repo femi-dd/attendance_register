@@ -1,0 +1,44 @@
+C:\Users\Babafemi\Documents\Visual Studio 2015\Projects\Attendance-Register\Attendance-Register\bin\Debug\Attendance-Register.exe.config
+C:\Users\Babafemi\Documents\Visual Studio 2015\Projects\Attendance-Register\Attendance-Register\obj\Debug\Attendance-Register.exe
+C:\Users\Babafemi\Documents\Visual Studio 2015\Projects\Attendance-Register\Attendance-Register\obj\Debug\Attendance-Register.pdb
+C:\Users\Babafemi\Documents\Visual Studio 2015\Projects\Attendance-Register\Attendance-Register\obj\Debug\Attendance-Register.csprojResolveAssemblyReference.cache
+C:\Users\Babafemi\Documents\Visual Studio 2015\Projects\Attendance-Register\Attendance-Register\obj\Debug\Attendance_Register.Admin.resources
+C:\Users\Babafemi\Documents\Visual Studio 2015\Projects\Attendance-Register\Attendance-Register\obj\Debug\Attendance_Register.Login.resources
+C:\Users\Babafemi\Documents\Visual Studio 2015\Projects\Attendance-Register\Attendance-Register\obj\Debug\Attendance_Register.Properties.Resources.resources
+C:\Users\Babafemi\Documents\Visual Studio 2015\Projects\Attendance-Register\Attendance-Register\obj\Debug\Attendance-Register.csproj.GenerateResource.Cache
+C:\Users\Babafemi\Documents\Visual Studio 2015\Projects\Attendance-Register\Attendance-Register\bin\Debug\Attendance-Register.exe
+C:\Users\Babafemi\Documents\Visual Studio 2015\Projects\Attendance-Register\Attendance-Register\bin\Debug\Attendance-Register.pdb
+C:\Users\Babafemi\Documents\Visual Studio 2015\Projects\Attendance-Register\Attendance-Register\bin\Debug\MySql.Data.dll
+C:\Users\Babafemi\Documents\Visual Studio 2015\Projects\Attendance-Register\Attendance-Register\bin\Debug\MySql.Data.xml
+C:\Users\Babafemi\documents\visual studio 2012\Projects\Attendance-Register\Attendance-Register\obj\Debug\Attendance_Register.Admin.resources
+C:\Users\Babafemi\documents\visual studio 2012\Projects\Attendance-Register\Attendance-Register\obj\Debug\Attendance_Register.AdminReg.resources
+C:\Users\Babafemi\documents\visual studio 2012\Projects\Attendance-Register\Attendance-Register\obj\Debug\Attendance_Register.Login.resources
+C:\Users\Babafemi\documents\visual studio 2012\Projects\Attendance-Register\Attendance-Register\obj\Debug\Attendance_Register.Properties.Resources.resources
+C:\Users\Babafemi\documents\visual studio 2012\Projects\Attendance-Register\Attendance-Register\obj\Debug\Attendance-Register.csproj.GenerateResource.Cache
+C:\Users\Babafemi\documents\visual studio 2012\Projects\Attendance-Register\Attendance-Register\bin\Debug\Attendance-Register.exe.config
+C:\Users\Babafemi\documents\visual studio 2012\Projects\Attendance-Register\Attendance-Register\bin\Debug\Attendance-Register.exe
+C:\Users\Babafemi\documents\visual studio 2012\Projects\Attendance-Register\Attendance-Register\bin\Debug\Attendance-Register.pdb
+C:\Users\Babafemi\documents\visual studio 2012\Projects\Attendance-Register\Attendance-Register\obj\Debug\Attendance-Register.csprojResolveAssemblyReference.cache
+C:\Users\Babafemi\documents\visual studio 2012\Projects\Attendance-Register\Attendance-Register\obj\Debug\Attendance-Register.exe
+C:\Users\Babafemi\documents\visual studio 2012\Projects\Attendance-Register\Attendance-Register\obj\Debug\Attendance-Register.pdb
+C:\Users\Babafemi\documents\visual studio 2012\Projects\Attendance-Register\Attendance-Register\obj\Debug\Attendance_Register.MainMenu.resources
+C:\Users\Babafemi\documents\visual studio 2012\Projects\Attendance-Register\Attendance-Register\obj\Debug\Attendance_Register.ViewAttendance.resources
+G:\Attendance-Register\Attendance-Register\bin\Debug\Attendance-Register.exe.config
+G:\Attendance-Register\Attendance-Register\obj\Debug\Attendance-Register.exe
+G:\Attendance-Register\Attendance-Register\obj\Debug\Attendance-Register.pdb
+G:\Attendance-Register\Attendance-Register\obj\Debug\Attendance-Register.csprojResolveAssemblyReference.cache
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\bin\Debug\Attendance-Register.exe.config
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\bin\Debug\Attendance-Register.exe
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\bin\Debug\Attendance-Register.pdb
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\obj\Debug\Attendance-Register.csprojResolveAssemblyReference.cache
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\obj\Debug\Attendance_Register.Admin.resources
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\obj\Debug\Attendance_Register.AdminReg.resources
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\obj\Debug\Attendance_Register.Login.resources
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\obj\Debug\Attendance_Register.MainMenu.resources
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\obj\Debug\Attendance_Register.Properties.Resources.resources
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\obj\Debug\Attendance_Register.ViewAttendance.resources
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\obj\Debug\Attendance-Register.csproj.GenerateResource.Cache
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\obj\Debug\Attendance-Register.exe
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\obj\Debug\Attendance-Register.pdb
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\bin\Debug\MySql.Data.dll
+C:\Users\md-Olay\Desktop\Attendance-Register\Attendance-Register\bin\Debug\MySql.Data.xml
