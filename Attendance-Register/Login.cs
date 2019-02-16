@@ -27,11 +27,6 @@ namespace Attendance_Register
                 string uname = textBox1.Text.Trim();
                 string pword = textBox2.Text.Trim();
                 MySqlConnectionStringBuilder builder = new MySqlConnectionStringBuilder();
-                //builder.Server = "localhost";
-                //builder.UserID = "root";
-                //builder.Password = "babafemiadedayo";
-                //builder.Database = "attendancedb";
-
 				builder.Server = "md";
 				builder.UserID = "root";
 				builder.Password = "kole";
