@@ -21,17 +21,10 @@ namespace Attendance_Register
         private void ViewAttendance_Load(object sender, EventArgs e)
         {
             MySqlConnectionStringBuilder builder = new MySqlConnectionStringBuilder();
-			
-			/*builder.Server = "localhost";
-            builder.UserID = "root";
-            builder.Password = "babafemiadedayo";
-            builder.Database = "attendancedb";*/
-
 			builder.Server = "md";
 			builder.UserID = "root";
 			builder.Password = "kole";
-			builder.Database = "world"
-				;
+			builder.Database = "world";
 			MySqlConnection connection = new MySqlConnection(builder.ToString());
             connection.Open();
             string sql = "SELECT * FROM attendance";
